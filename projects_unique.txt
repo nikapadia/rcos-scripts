@@ -1,0 +1,117 @@
+CartX
+Santorini AI Project
+BBEGinator
+audioviz
+Molecularium
+OAHub
+Rensselaer Spaceflight Society Systems
+MATA Tune
+Soundscape Ecosytem and Testing
+BOTTLE
+OASIS
+YACS (Yet Another Course Scheduler)
+CApy (Club Assistant in python)
+SplatIt!
+Technique Tree
+Pricing Algorithm Simulation
+IBM Ceph
+LCOS
+Thunder Mountain Curry App
+Open Financial LLM Leaderboard
+Board Solver
+Pallas
+DishCord API
+Rensselaer Motorsport
+PanHelper
+Project CARPI
+Lantern
+PixelPerfect Labeler
+IBM Tornjak
+VZCode
+RPI DORM ROOM HELPER
+Quantum Education Modules
+Spotifydle
+Rudamentary Anti-Cheat (RAC)
+SwipeSaver
+EZPark
+Swift dorms
+Nonprofitly
+Learn ROS through Python Turtle
+Project VOICE
+Regulation Challenge
+MANE SAC Website
+Penny Tracker
+Projects by Bren
+rPI Arcade
+Engineer
+S.I.F.T: Submitty Instant-Feedback and Testing
+LEGUP
+Study Compass
+Procrastaint
+Juke - Your Music, Reimagined
+Concerto
+learning C# to code a game
+Pipeline
+Prisoners Dilemma Sim
+ParkAid
+Clinical Dataset Project
+Submitty
+project
+IBM KubeStellar
+RPI Ambulance Development
+Open Energy Dashboard
+Genetic Selection Mod
+Fullerene
+StatLine
+Elusiv
+Such Life
+Bridge Helper
+Avant-garde
+Personal WebBuddy
+DKE Website
+PolliNation
+REX: Relational Algebra Explorer
+LineupX
+Model Openness Framework (MOF)’s License Data
+LeafVac
+TourLink
+JCAT Game Engine
+LocalLIve
+LibreTunes
+FinGPT Search Agent
+NeuroNPC
+Icarus Pressure Jump
+ORTOS
+AI & Solutions
+Ever Break
+AlumniNet
+Logi-Tools
+NBAi
+Conjur
+Study Buddy
+Quantum Multi Period Asset Allocation Problem
+SwiftHire
+Brand New Home
+MunchiMaps
+Peirce My Heart
+ParadiseOS
+RPI EventHub
+MuscleMap
+SimpleShell
+LifeScape
+GuardCar
+LeetCode Duels
+Dp-Lora Federated Fine-tuning
+Bland
+Edureka
+Watch Party
+pskproject
+PSoft Tools
+Fraternity Sorority Commons (FSC) Website
+Cilium
+LabConnect
+LLM-ASR
+LLMs for Financial Application
+Simplified Character Sheets
+RPI Xplore
+Servision

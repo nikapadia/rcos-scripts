@@ -1,0 +1,30 @@
+[?25l[J[J[J[J[J[J[?25h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;30r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[30;1H"number_gen.py" [Incomplete last line] 15 lines, 385 bytes[1;1Himport os
+import sys
+import random
+
+# create 117 unique random numbers that are 4 digits long
+def create_numbers():
+    # create a set to store the unique numbers
+    unique_numbers = set()
+    while len(unique_numbers) < 117:[10;9Hunique_numbers.add(random.randint(1000, 9999))
+    return unique_numbers
+
+# print the unique numbers
+for number in create_numbers():
+    print(number)
+[94m~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [1;1H[?25h[?25l[m[30;1HType  :qa  and press <Enter> to exit Vim[30;41H[K[1;1H[?25h[?25l[?25h
+
+
+
+
+
+    
+    
+    [10;9H
+    
+
+[?25l[?25h[?25l[?25h
+[?25l[?25h
+    [?25l[?25h[30;1H[?2004l[?1l>[>4;m[?1049l[23;0;0tVim: Caught deadly signal HUP
+Vim: Finished.
+[30;1H[23;2t[23;1t
